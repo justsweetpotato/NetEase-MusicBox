@@ -46,7 +46,7 @@ NetEase-MusicBox
 
 	$ pip install netease-musicbox
 
-	$ brew install mpg123
+	$ apt install mpg123
 
 ### 使用
 
